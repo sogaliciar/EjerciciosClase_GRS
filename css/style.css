@@ -76,3 +76,14 @@ pre{
     width: 80%;
     color:rgb(47, 106, 255);
 }
+
+/*try catch*/
+#bodyTry{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#mensaje{
+    font-weight: bold;
+    color: red;
+}
