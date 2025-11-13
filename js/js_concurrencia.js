@@ -43,3 +43,4 @@ conc.onclick = async()=>{
 
     log(`Tiempo total de ejecución: ${((performance.now()-inicio) /1000).toFixed(2)}s`);
 }
+
