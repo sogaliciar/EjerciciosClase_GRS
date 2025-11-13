@@ -57,3 +57,22 @@
     color:#ffff;
     background-color: rgb(65, 73, 166);
 }
+
+#carritoLista{
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid rgb(47, 106, 255);
+    background-color: rgb(103, 213, 225);
+    color: white;
+}
+
+/*concurrencia*/
+pre{
+    text-align: left;
+    background-color: aquamarine;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 80%;
+    color:rgb(47, 106, 255);
+}
